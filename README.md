@@ -1,5 +1,13 @@
 # Hi 🌹
 # Anna Clara
 
-![](![image](https://github.com/user-attachments/assets/65c7196c-415b-4ccb-99d7-c2af1ef44ecd)
-)
+-«Estou estudando na Alura»
+
+-Estou me desenvolvendo na linguagem JavaScript
+
+-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+![](https://media1.tenor.com/m/1Ase-82b7QkAAAAd/yunjin-eunchae.gif)
+
+
+
